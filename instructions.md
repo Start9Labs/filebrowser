@@ -2,8 +2,12 @@
 
 ## Getting Started
 
-1. Copy/paste your File Browser ".onion" URL into the Start9 Consulate or other Tor-enabled browser¹.
-2. Bookmark this site for future visits, or better yet, save it to your Bitwarden or other password manager.
+1. Copy/paste your ".onion" URL into any Tor-enabled browser. Options include:
+   * Start9 Consulate (highly recommended)
+   * Tor Browser
+   * Firefox (with SOCKS5 proxy enabled)
+   * Brave
+2. Bookmark the site for future visits, or better yet, save it to your Bitwarden server!
 3. Insert your default username and password. These can be found in the "Properties" section of your File Browser service.
 4. Optionally change your default username/password. Please note, this change **will not** be reflected in the "Properties" section mentioned above.
 
